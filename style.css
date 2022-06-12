@@ -1,0 +1,37 @@
+body {
+    background-color: azure;
+}
+br{
+    font-size: 25px;
+}
+.title {
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-bottom: 100px;
+}
+
+.container {
+    margin-top: 100px;
+    text-align-last: center;
+}
+
+img {
+    transform: rotate(90deg);
+    padding: 0px
+}
+.buttons{
+    justify-content: space-between;
+
+}
+button {
+    margin: 10px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 60px;
+}
+
+#results {
+    font-family: sans-serif;
+    margin-top: 50px;
+    font-size: 28px;
+}
